@@ -9,3 +9,6 @@ and the presence of absence:
 Yesterday it worked
 Today it is not working
 Software is like that.
+the end
+not the end
+continues
